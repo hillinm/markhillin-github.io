@@ -4,8 +4,9 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Air Mobility Command](/sample_page)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0zOX4CDBKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
