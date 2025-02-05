@@ -15,7 +15,7 @@
 <img src="images/Satellite_Image_Auckland_New_Zealand_Port.jpg?raw=true"/>
 
 ---
-<img src="images/coding.jpg?raw=true"/>
+<img src="images/Coding.jpg?raw=true"/>
 
 ---
 
