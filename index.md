@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Air Mobility Command](/sample_page)
+[Airfield Analysis](/sample_page)
 <img src="images/Fig1b_Sunchon-Upd-23-0321_23-0321-Planet-1024x768.jpg?raw=true"/>
 
 ---
