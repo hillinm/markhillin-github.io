@@ -8,7 +8,7 @@
 <img src="images/Fig1b_Sunchon-Upd-23-0321_23-0321-Planet-1024x768.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Port Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
