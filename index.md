@@ -8,7 +8,7 @@
 <img src="images/topographic.jpg?raw=true"/>
 
 [Targeting and Intelligence Gathering](/sample_page)
-<img src="images/intelligence.jpg?raw=true"/>
+<img src="images/Intelligence.jpg?raw=true"/>
 
 [Logistics and Supply Chain Optimization](/sample_page)
 <img src="images/Logistics.jpg?raw=true"/>
