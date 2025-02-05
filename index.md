@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Air Mobility Command](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Fig1b_Sunchon-Upd-23-0321_23-0321-Planet-1024x768.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
