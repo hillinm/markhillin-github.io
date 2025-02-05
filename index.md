@@ -9,7 +9,7 @@
 
 ---
 [Port Analysis](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Satellite_Image_Auckland_New_Zealand_Port.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
