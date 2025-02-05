@@ -4,15 +4,20 @@
 
 ### Past Projects
 
-[Global Mission Support](/sample_page)
-<img src="images/IMG_0046.jpg?raw=true"/>
+[Terrain Analysis for Mission Planning]
+<img src="images/topographic.jpg?raw=true"/>
 
-[Airfield Analysis](/sample_page)
-<img src="images/Fig1b_Sunchon-Upd-23-0321_23-0321-Planet-1024x768.jpg?raw=true"/>
+[Targeting and Intelligence Gathering]
+<img src="images/intelligence.jpg?raw=true"/>
 
----
-[Port Analysis](/pdf/sample_presentation.pdf)
-<img src="images/Satellite_Image_Auckland_New_Zealand_Port.jpg?raw=true"/>
+[Logistics and Supply Chain Optimization]
+<img src="images/Logistics.jpg?raw=true"/>
+
+[Coding]
+<img src="images/Coding.jpg?raw=true"/>
+
+[Humanitarian and Disaster Relief Support]
+<img src="images/HADR.jpg?raw=true"/>
 
 ---
 
