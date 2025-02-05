@@ -4,19 +4,19 @@
 
 ### Past Projects
 
-[Terrain Analysis for Mission Planning]
+[Terrain Analysis for Mission Planning](/sample_page)
 <img src="images/topographic.jpg?raw=true"/>
 
-[Targeting and Intelligence Gathering]
+[Targeting and Intelligence Gathering](/sample_page)
 <img src="images/intelligence.jpg?raw=true"/>
 
-[Logistics and Supply Chain Optimization]
+[Logistics and Supply Chain Optimization](/sample_page)
 <img src="images/Logistics.jpg?raw=true"/>
 
-[Coding]
+[Coding](/sample_page)
 <img src="images/Coding.jpg?raw=true"/>
 
-[Humanitarian and Disaster Relief Support]
+[Humanitarian and Disaster Relief Support](/sample_page)
 <img src="images/HADR.jpg?raw=true"/>
 
 ---
