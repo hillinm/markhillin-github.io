@@ -15,8 +15,7 @@
 <img src="images/Satellite_Image_Auckland_New_Zealand_Port.jpg?raw=true"/>
 
 ---
-[Coding](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/coding.jpg?raw=true"/>
 
 ---
 
