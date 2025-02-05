@@ -5,7 +5,7 @@
 ### Past Projects
 
 [Terrain Analysis for Mission Planning](/sample_page)
-<img src="images/topographic.jpg?raw=true"/>
+<img src="images/topographic.jpg" width = 500/>
 
 [Targeting and Intelligence Gathering](/sample_page)
 <img src="images/Intelligence.jpg?raw=true"/>
