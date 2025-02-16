@@ -7,7 +7,7 @@
 [Terrain Analysis for Mission Planning](/sample_page)
 <img src="images/Layout1.jpg?raw=true"/>
 
-[Situational Awareness       ](/sample_page)
+[Situational Awareness for Mission Planning](/sample_page)
 <img src="images/AF-map.jpg?raw=true"/>
 
 [Logistics and Supply Chain Optimization](/sample_page)
