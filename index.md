@@ -23,9 +23,9 @@
 
 ---
 
-### Category Name 2
+### Current Projects
 
-- [Project 1 Title](http://example.com/)
+- [St. Louis Metro Green Line](https://storymaps.arcgis.com/stories/53372c499c02494ba64018a2204340c6/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
