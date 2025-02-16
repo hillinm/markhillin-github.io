@@ -7,8 +7,8 @@
 [Terrain Analysis for Mission Planning](/sample_page)
 <img src="images/Layout1.jpg?raw=true"/>
 
-[Situational Awareness fpr Mission Planning](/sample_page)
-<img src="images/algeria_map.jpg?raw=true"/>
+[Situational Awareness](/sample_page)
+<img src="images/Afghanistan.jpeg?raw=true"/>
 
 [Logistics and Supply Chain Optimization](/sample_page)
 <img src="images/Logistics.jpg?raw=true"/>
