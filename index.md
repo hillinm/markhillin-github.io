@@ -7,8 +7,8 @@
 [Terrain Analysis for Mission Planning](/sample_page)
 <img src="images/Layout1.jpg?raw=true"/>
 
-[Targeting and Intelligence Gathering](/sample_page)
-<img src="images/Intelligence.jpg?raw=true"/>
+[Situational Awareness](/sample_page)
+<img src="images/algeria_map.jpg?raw=true"/>
 
 [Logistics and Supply Chain Optimization](/sample_page)
 <img src="images/Logistics.jpg?raw=true"/>
