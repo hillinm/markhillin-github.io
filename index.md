@@ -7,7 +7,7 @@
 [Terrain Analysis for Mission Planning](images/Layout1.jpg)
 <img src="images/Layout1.jpg?raw=true"/>
 
-[Situational Awareness]([https://www.cia.gov/the-world-factbook/countries/afghanistan/)
+[Situational Awareness](https://www.cia.gov/the-world-factbook/countries/afghanistan/)
 <img src="images/AF-map.jpg?raw=true"/>
 
 [Logistics and Supply Chain Optimization](/sample_page)
