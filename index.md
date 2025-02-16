@@ -4,7 +4,7 @@
 
 ### Past Projects
 
-[Terrain Analysis for Mission Planning](/sample_page)
+[Terrain Analysis for Mission Planning](/Layout1.jpg)
 <img src="images/Layout1.jpg?raw=true"/>
 
 [Situational Awareness](/sample_page)
