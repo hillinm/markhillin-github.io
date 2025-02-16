@@ -8,7 +8,7 @@
 <img src="images/Layout1.jpg?raw=true"/>
 
 [Situational Awareness](/sample_page)
-<img src="images/algeria_map.jpg?raw=true"/>
+<img src="images/algeria_map.jpg?"/>
 
 [Logistics and Supply Chain Optimization](/sample_page)
 <img src="images/Logistics.jpg?raw=true"/>
