@@ -23,7 +23,7 @@
 
 ---
 
-### Current Projects
+### Story Maps
 
 - [St. Louis Metro Green Line](https://storymaps.arcgis.com/stories/53372c499c02494ba64018a2204340c6/)
 - [Project 2 Title](http://example.com/)
