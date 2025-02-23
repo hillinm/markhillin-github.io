@@ -11,9 +11,3 @@ body {
 }
 
 
-img {
-  border: 3px solid #000; /* Change the color and thickness as needed */
-  border-radius: 5px; /* Optional: adds rounded corners */
-  padding: 5px; /* Optional: adds spacing inside the border */
-  max-width: 100%; /* Ensures the image doesn't exceed its container */
-}
