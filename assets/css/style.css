@@ -1,3 +1,16 @@
+body {
+      background-color: #FFCDC5; /* Background Color */
+      color: #7C1201; /* Text Color */
+      a {
+        color: #7C1201; /* Change this to your desired color */
+      }
+  
+      a:hover {
+        color: #460C03; /* Hover effect */
+      }
+}
+
+
 img {
   border: 3px solid #000; /* Change the color and thickness as needed */
   border-radius: 5px; /* Optional: adds rounded corners */
