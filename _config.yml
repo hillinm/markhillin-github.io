@@ -1,3 +1,6 @@
+# Custom CSS
+style: /assets/css/style.css
+
 title: Mark Hillin # your name (or website title) here
 logo: "/images/IMG_1056.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
