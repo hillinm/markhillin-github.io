@@ -4,6 +4,9 @@
 
 ### Past Projects
 
+[Africa Ports Project (ArcGIS Online)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=78a3ba0f6638408d8a5293da29788463)
+<img src="images/AfricaPortsProject.png?raw=true"/>
+
 [Terrain Analysis for Mission Planning](images/Layout1.jpg)
 <img src="images/Layout1.jpg?raw=true"/>
 
@@ -12,9 +15,6 @@
 
 [Logistics and Supply Chain Optimization](/sample_page)
 <img src="images/Logistics.jpg?raw=true"/>
-
-[Coding](/sample_page)
-<img src="images/Coding.jpg?raw=true"/>
 
 [Humanitarian and Disaster Relief Support](/sample_page)
 <img src="images/HADR.jpg?raw=true"/>
