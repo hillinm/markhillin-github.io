@@ -14,7 +14,7 @@
 <img src="images/AF-map.jpg?raw=true"/>
 
 [Google Earth Engine](https://ee-markhillin.projects.earthengine.app/view/bahamas-ndvi--true-color-comparison)
-<img src="images/Logistics.jpg?raw=true"/>
+<img src="images/GEE.png?raw=true"/>
 
 [Humanitarian and Disaster Relief Support](/sample_page)
 <img src="images/HADR.jpg?raw=true"/>
