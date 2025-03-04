@@ -13,7 +13,7 @@
 [Situational Awareness](images/AF-map.jpg)
 <img src="images/AF-map.jpg?raw=true"/>
 
-[Logistics and Supply Chain Optimization](/sample_page)
+[Google Earth Engine](https://ee-markhillin.projects.earthengine.app/view/bahamas-ndvi--true-color-comparison)
 <img src="images/Logistics.jpg?raw=true"/>
 
 [Humanitarian and Disaster Relief Support](/sample_page)
