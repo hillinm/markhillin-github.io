@@ -28,8 +28,8 @@
 - [St. Louis Metro Green Line](https://storymaps.arcgis.com/stories/53372c499c02494ba64018a2204340c6/)
 - [Python Final Exam](https://github.com/hillinm/Final_Exam/tree/main)
 - [Africa Ports Project](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=78a3ba0f6638408d8a5293da29788463)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Geospatial Support to Constant Hawk](https://www.globalsecurity.org/intell/systems/constant-hawk.htm)
+- [Geospatial Support to Angel Fire](https://www.globalsecurity.org/intell/systems/angel-fire.htm)
 
 ---
 
