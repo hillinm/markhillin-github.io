@@ -4,7 +4,7 @@
 
 ### Past Projects
 
-[Deployment Support](/sample_page)
+[Deployment Support](/images/Haiyan.jpg)
 <img src="images/Fallujah.jpg?raw=true"/>
 
 [Africa Ports Project (ArcGIS Online)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=78a3ba0f6638408d8a5293da29788463)
