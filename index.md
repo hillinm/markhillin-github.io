@@ -4,6 +4,9 @@
 
 ### Past Projects
 
+[Deployment Support](/sample_page)
+<img src="images/Fallujah.jpg?raw=true"/>
+
 [Africa Ports Project (ArcGIS Online)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=78a3ba0f6638408d8a5293da29788463)
 <img src="images/AfricaPortsProject.png?raw=true"/>
 
@@ -15,9 +18,6 @@
 
 [Google Earth Engine](https://ee-markhillin.projects.earthengine.app/view/bahamas-ndvi--true-color-comparison)
 <img src="images/GEE.png?raw=true"/>
-
-[Humanitarian and Disaster Relief Support](/sample_page)
-<img src="images/HADR.jpg?raw=true"/>
 
 ---
 
